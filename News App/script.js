@@ -1,6 +1,6 @@
 // https://newsapi.org/
 
-const API_KEY ="83c8e1b1941d4dcea96824b04ac91cfe";
+const API_KEY ="";
 const url ="https://newsapi.org/v2/everything?q=";
 
 window.addEventListener("load", () => fetchNews("health"));
